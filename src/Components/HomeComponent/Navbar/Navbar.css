@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@700&display=swap');
+
+.nav-bg{
+    background-color: #092746 !important;
+}
+.nav-container{
+    margin: 0 50px;
+}
+.university-icon{
+    font-size: 22px;
+    color: #9fd02e;
+}
+.university-name{
+    font-family: 'Gemunu Libre', sans-serif;
+    text-transform: uppercase;
+    color: #aece61;
+    font-weight: 700;
+}
+.nav-menu ul{
+    display: flex;
+    
+}
+.nav-menu ul li {
+    list-style-type: none;
+    margin: 10px 15px;
+}
+.nav-menu ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 5px;
+    transition: 0.3s;
+    font-family: 'Gemunu Libre', sans-serif;
+    letter-spacing: 0.1rem;
+}
+.nav-menu ul li a:hover{
+    color: #aece61;
+}
