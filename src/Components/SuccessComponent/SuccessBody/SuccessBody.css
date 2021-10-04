@@ -1,0 +1,16 @@
+.success-header img{
+    height: 450px;
+    width: 100%;
+}
+.success-body{
+    margin: 50px;
+}
+.success-body h3{
+    text-transform: uppercase;
+    color: navy;
+    font-size: 22px;
+}
+.success-body p{
+    text-align: justify;
+    color: gray;
+}

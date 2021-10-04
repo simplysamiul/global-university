@@ -21,7 +21,7 @@ const Navbar = () => {
                         <li><NavLink to = "/about" activeStyle={{color: "white", borderBottom: "2px solid #aece61"}}>About-Us</NavLink></li>
                         <li><NavLink to = "courses" activeStyle={{color: "white", borderBottom: "2px solid #aece61"}}>Courses</NavLink></li>
                         <li><NavLink to = "/success" activeStyle={{color: "white", borderBottom: "2px solid #aece61"}}>Success</NavLink></li>
-                        <li><NavLink to = "covid_19_info">Covid-19</NavLink></li>
+                        <li><NavLink to = "covid_19_info" activeStyle={{color: "white", borderBottom: "2px solid #aece61"}}>Covid-19</NavLink></li>
                     </ul>
                     </div>
                     </Toolbar>
