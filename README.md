@@ -12,3 +12,22 @@ This is a university website that name is (Global-University). This website crea
 
 
 Live_Link : https://global-university-bd.netlify.app/
+
+---------------------------------------------------------------------------------------------
+
+
+
+
+
+![screenshot (7)](https://user-images.githubusercontent.com/76746810/135892595-672f3c06-d00d-4fb5-a05f-47fef3f189b5.png)
+
+
+
+
+
+![screenshot (8)](https://user-images.githubusercontent.com/76746810/135892702-d1e2f2fa-052f-4776-ae68-7608c5a60957.png)
+
+
+
+
+
