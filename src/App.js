@@ -12,6 +12,7 @@ import AboutUs from './Components/About/AboutUs/AboutUs';
 import NotFound from './Components/NotFound/NotFound';
 import Success from './Components/SuccessComponent/Success/Success';
 import CovidInfo from './Components/CovidComponent/CovidInfo/CovidInfo';
+import CourseContainer from './Components/CourseComponent/CourseContainer/CourseContainer';
 
 
 function App() {
@@ -28,6 +29,9 @@ function App() {
           </Route>
           <Route path="/about">
            <AboutUs />
+          </Route>
+          <Route path="/courses">
+            <CourseContainer />
           </Route>
           <Route path="/success">
             <Success />

@@ -1,0 +1,19 @@
+.programme-details{
+    margin-top: 100px;
+}
+.programme-title h2{
+    text-transform: uppercase;
+    color: #092746;
+    font-size: 28px;
+}
+.programme-descripttion h3{
+    color: #658716;
+    font-size: 22px;
+}
+.programme-descripttion p{
+    color: gray;
+    text-align: justify;
+}
+.programme-descripttion ul li {
+    color: gray;
+}

@@ -1,0 +1,14 @@
+.section-body{
+    margin: 50px;
+}
+.section-header{
+    margin: 20px 0;
+}
+.section-header h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: #092746;
+}
+.section-header span{
+    color: #93BA3A;
+}
