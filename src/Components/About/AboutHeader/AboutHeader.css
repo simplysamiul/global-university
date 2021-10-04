@@ -1,0 +1,7 @@
+.about-header {
+    text-align: center;
+    box-shadow: 5px 2px 25px lightgray;
+}
+.about-header img{
+    height: 400px;
+}

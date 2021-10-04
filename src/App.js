@@ -8,6 +8,8 @@ import {
 import Home from './Components/HomeComponent/Home/Home';
 import Navbar from './Components/HomeComponent/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
+import AboutUs from './Components/About/AboutUs/AboutUs';
+import NotFound from './Components/NotFound/NotFound';
 
 
 function App() {
@@ -21,6 +23,12 @@ function App() {
           </Route>
           <Route path="/home">
           <Home />
+          </Route>
+          <Route path="/about">
+           <AboutUs />
+          </Route>
+          <Route path="*">
+            <NotFound />
           </Route>
         </Switch>
         <Footer />

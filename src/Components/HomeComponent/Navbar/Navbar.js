@@ -18,9 +18,9 @@ const Navbar = () => {
                     <div className="nav-menu">
                     <ul>
                         <li><NavLink to = "/home" activeStyle={{color: "white", borderBottom: "2px solid #aece61"}}>Home</NavLink></li>
-                        <li><NavLink to = "/about">About-Us</NavLink></li>
-                        <li><NavLink to = "courses">Courses</NavLink></li>
-                        <li><NavLink to = "/success">Success</NavLink></li>
+                        <li><NavLink to = "/about" activeStyle={{color: "white", borderBottom: "2px solid #aece61"}}>About-Us</NavLink></li>
+                        <li><NavLink to = "courses" activeStyle={{color: "white", borderBottom: "2px solid #aece61"}}>Courses</NavLink></li>
+                        <li><NavLink to = "/success" activeStyle={{color: "white", borderBottom: "2px solid #aece61"}}>Success</NavLink></li>
                         <li><NavLink to = "covid_19_info">Covid-19</NavLink></li>
                     </ul>
                     </div>
