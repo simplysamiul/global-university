@@ -1,0 +1,24 @@
+.programmes-area{
+    margin-top: 50px;
+    text-align: center;
+}
+.programmes-area h1{
+    color: #aece61;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    margin-bottom: 30px;
+    font-size: 35px;
+    font-family: 'Oswald', sans-serif;
+}
+.programmes-area span{
+    color: #092746;
+}
+.programmes-container{
+    margin: 0 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 40px;
+    grid-column-gap: 20px;
+    margin: 50px;
+}

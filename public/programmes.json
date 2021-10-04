@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "programmes_name":"Pre-University",
+        "duration":"1 Year",
+        "semester":"6 month",
+        "image":"https://elearn.daffodilvarsity.edu.bd/pluginfile.php/911984/course/overviewfiles/foundation-course-bansal-learning.jpg"
+    },
+{
+    "id":2,
+    "programmes_name":"Diploma",
+    "duration":"3 Year",
+    "semester":"6 month",
+    "image":"http://kaizenedutech.com/img/1_1.jpg"
+},
+{
+    "id":3,
+    "programmes_name":"Under-Graduation",
+    "duration":"4 Year",
+    "semester":"4 month",
+    "image":"https://bloximages.chicago2.vip.townnews.com/heraldbanner.com/content/tncms/assets/v3/editorial/e/c5/ec56f746-3afe-11e9-a227-bf140e818f5f/5c7744d2758ac.image.jpg?resize=400%2C225"
+},
+{
+    "id":4,
+    "programmes_name":"Post-Graduation",
+    "duration":"2 Years",
+    "semester":"4 Month",
+    "image":"https://us.123rf.com/450wm/iamsania/iamsania1304/iamsania130400010/18948920-graduates-silhouette-on-white-background.jpg?ver=6"
+    }
+]

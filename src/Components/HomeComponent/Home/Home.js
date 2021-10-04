@@ -1,12 +1,16 @@
 import React from 'react';
+import CourseSearch from '../CourseSearch/CourseSearch';
+import HomeProgrammes from '../HomeProgrammes/HomeProgrammes';
 import ImgSlider from '../ImgSlider/ImgSlider';
-import Navbar from '../Navbar/Navbar';
+import OnlineLesson from '../OnlineLesson/OnlineLesson';
 
 const Home = () => {
     return (
         <div>
-            <Navbar />
             <ImgSlider />
+            <CourseSearch />
+            <HomeProgrammes />
+            <OnlineLesson />
         </div>
     );
 };

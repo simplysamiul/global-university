@@ -6,12 +6,15 @@ import {
   Link
 } from "react-router-dom";
 import Home from './Components/HomeComponent/Home/Home';
+import Navbar from './Components/HomeComponent/Navbar/Navbar';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
   return (
     <div className="App">
       <Router>
+        <Navbar />
         <Switch>
           <Route exact path="/">
           <Home />
@@ -20,6 +23,7 @@ function App() {
           <Home />
           </Route>
         </Switch>
+        <Footer />
       </Router>
 
     </div>

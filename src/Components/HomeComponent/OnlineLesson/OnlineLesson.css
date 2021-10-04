@@ -1,0 +1,58 @@
+.online-study{
+    margin: 50px 50px;
+}
+.online-study h1{
+    color: #aece61;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.3rem;
+    margin-bottom: 30px;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;  
+}
+.online-study span{
+    color: #092746;
+}
+.section-container{
+    background-color: rgba(9, 39, 70, .8);
+    border-radius: 5px;
+}
+.section-text{
+    padding: 50px 20px;
+    text-align: center;
+}
+.section-text h3{
+    color: #aece61;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif; 
+    letter-spacing: 0.2rem;
+    margin-bottom: 5px;
+}
+.section-text h2{
+    color: #010e1c;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif; 
+    letter-spacing: 0.2rem;
+    margin-bottom: 5px;
+}
+.counting-number span{
+    font-size: 35px;
+    font-weight: bold;
+    color: #aece61;
+}
+.person-title{
+    color: #010e1c;
+    text-transform: uppercase;
+}
+.section-text p{
+    text-align: justify;
+    color: rgb(177, 177, 177);
+}
+.campus-popultion{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding-bottom: 50px;
+}

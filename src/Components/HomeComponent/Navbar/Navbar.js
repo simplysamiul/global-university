@@ -13,7 +13,7 @@ const Navbar = () => {
                 <AppBar className="nav-bg" position="fixed">
                     <Toolbar className="nav-container">
                     <Typography className="university-name" variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                    <i class="fas fa-user-graduate university-icon"></i> GLOBAL - University
+                    <i className="fas fa-user-graduate university-icon"></i> GLOBAL - University
                     </Typography>
                     <div className="nav-menu">
                     <ul>
